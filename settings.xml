@@ -71,7 +71,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://35.153.126.247:8081/repository/java-webapp-repository/</url>
+         <url>http://44.211.231.83:8081/repository/java-webapp-repository/</url>
        </repository>
      </repositories>
    </profile>
